@@ -1,62 +1,67 @@
-<!-- 🔥 TOP BANNER -->
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi, I'm Mehakmeet Kaur 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mehakmeet%20Kaur&fontSize=38&fontColor=00F7FF&animation=fadeIn" />
+  💻 Computer Vision • HCI • Experimental Communication Systems  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Computer+Vision+%7C+HCI+Enthusiast;Building+Gesture-Based+Projects;Exploring+Communication+Systems;Always+Learning+%7C+Always+Building" />
-</p>
-
-<p align="center">
-  💻 Computer Vision & HCI Explorer | 🇮🇳 India
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat"/>
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔭 Working on gesture-based and interactive systems  
-- 🧠 Interested in human-machine communication  
-- 🎹 Building a Gesture Controlled Piano  
-- 🫀 Exploring Angiogram Analysis concepts  
-- 🧪 Researching Evolution of Communication Systems  
+## 🧠 What I Do
+- Build **gesture-based interactive systems**
+- Explore **human-machine communication**
+- Work on **experimental communication models**
 
 ---
 
-## 🌐 Connect With Me
+## 🚧 Currently Working On (LIVE)
+### 🧪 Evolution of Communication Systems
+- Designing **experimental communication games**
+- Studying **artificial language learning**
+- Goal: understand how structured communication emerges
 
-<p align="center">
-  <a href="https://github.com/Mehak2513kaur">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+> Status: Active Research 🚀
+
+---
+
+## 🚀 Featured Projects
+
+### 🎹 Gesture Controlled Piano
+- Virtual piano controlled via hand gestures  
+- Real-time tracking using MediaPipe  
+- Tech: Python, OpenCV  
+
+👉 Add repo link here
+
+---
+
+### 🫀 Angiogram Analysis
+- Worked with medical imaging concepts  
+- Focus: pattern understanding in angiogram visuals  
+
+👉 Add repo / details here
 
 ---
 
 ## 🛠 Tech Stack
+- Python  
+- OpenCV  
+- MediaPipe  
+- Basic ML Concepts  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehak2513kaur&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Projects
-
-- 🎹 Gesture Controlled Piano (in progress)
-- 🫀 Angiogram Analysis
-- 🧪 Evolution of Communication Systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehak2513kaur&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehak2513kaur&theme=tokyonight&hide_border=true" />
-</p>
+## 📫 Connect
+- GitHub: https://github.com/Mehak2513kaur
