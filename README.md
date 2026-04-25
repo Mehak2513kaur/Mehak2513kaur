@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mehak 👋
 
-<!--
-**Mehak2513kaur/Mehak2513kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Student exploring Computer Vision and Human-Computer Interaction
+- 🧠 Interested in how humans and machines communicate
+- ⚡ Building experimental and interactive tech projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- OpenCV
+- MediaPipe
+- Basic Machine Learning Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### 🫀 Angiogram Analysis
+- Worked on angiogram-related data and medical imaging concepts
+- Focused on understanding patterns in medical visuals
+
+### 🎹 Gesture Controlled Piano
+- Virtual piano controlled using hand gestures via webcam
+- Real-time hand tracking system
+- Tech: Python, OpenCV, MediaPipe
+
+### 🧪 Evolution of Communication Systems
+- Studying communication through experimental games
+- Exploring artificial language learning and interaction patterns
+
+## 📫 Contact
+- Email: mehakmeet1301@gmail.com
