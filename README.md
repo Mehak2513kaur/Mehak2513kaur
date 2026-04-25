@@ -1,67 +1,86 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">Hi, I'm Mehakmeet Kaur 👋</h1>
+<!-- 🔥 TOP BANNER -->
 <p align="center">
-  💻 Computer Vision • HCI • Experimental Communication Systems  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=200&section=header&text=Mehakmeet%20Kaur&fontSize=38&fontColor=00F7FF&animation=fadeIn" />
+</p>
+
+<!-- ✨ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Computer+Vision+Enthusiast;Gesture-Based+System+Builder;Exploring+Communication+Systems;Human-Machine+Interaction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat"/>
+  💻 Computer Vision • HCI • Experimental Systems | 🇮🇳 India
 </p>
 
 ---
 
-## 🧠 What I Do
-- Build **gesture-based interactive systems**
-- Explore **human-machine communication**
-- Work on **experimental communication models**
+## 🧠 About Me
+- 🔭 Building **gesture-based interactive systems**
+- 🧪 Working on **Evolution of Communication Systems**
+- 🫀 Exploring **angiogram-related analysis**
+- ⚡ Interested in **human-machine interaction**
 
 ---
 
-## 🚧 Currently Working On (LIVE)
+## 🚧 Currently Working On
 ### 🧪 Evolution of Communication Systems
-- Designing **experimental communication games**
-- Studying **artificial language learning**
-- Goal: understand how structured communication emerges
+- Experimental communication games  
+- Artificial language learning  
+- Understanding how structured communication evolves  
 
-> Status: Active Research 🚀
+> Status: 🚀 Active
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🎹 Gesture Controlled Piano
-- Virtual piano controlled via hand gestures  
-- Real-time tracking using MediaPipe  
+- Virtual piano using hand gestures  
+- Real-time tracking with MediaPipe  
 - Tech: Python, OpenCV  
 
-👉 Add repo link here
+👉 Add your repo link here
 
 ---
 
 ### 🫀 Angiogram Analysis
-- Worked with medical imaging concepts  
-- Focus: pattern understanding in angiogram visuals  
+- Working with medical imaging concepts  
+- Focus on visual pattern understanding  
 
-👉 Add repo / details here
+👉 Add details / repo
 
 ---
 
 ## 🛠 Tech Stack
-- Python  
-- OpenCV  
-- MediaPipe  
-- Basic ML Concepts  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehak2513kaur&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehak2513kaur&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehak2513kaur&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehak2513kaur&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/Mehak2513kaur
+<p align="center">
+  <a href="https://github.com/Mehak2513kaur">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
